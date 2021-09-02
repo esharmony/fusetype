@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "outDir": "./lib",
+    "target": "ES3",
+    "module": "commonjs",
+    "declaration": true,
+    "sourceMap": true,
+    "lib": [
+      "ES2019"
+    ]
+  },
+  "include": [
+    "./src"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "fusetype",
+  "version": "0.1.1",
+  "description": "typescript state management library",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/esharmony/fusetype"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "[ -d './lib/*' ] && rm ./lib/* && tsc || tsc"
+  },
+  "keywords": [
+    "state",
+    "management",
+    "fusetype",
+    "react",
+    "typescript"
+  ],
+  "author": "Matthew Barnden",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.4.2"
+  }
+}
