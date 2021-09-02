@@ -1,0 +1,3 @@
+[submodule "examples/counter"]
+	path = examples/counter
+	url = https://github.com/esharmony/fusetype-counter.git
