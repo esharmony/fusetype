@@ -7,7 +7,12 @@ FuseType is a super lightweight state management library its:
 - 100% testable 
 - has async baked in 
 
-For now as I put together some more docs you can view the simple counter example [here](https://github.com/esharmony/fusetype-counter/tree/41952b5af8baefcebb7bde91ce0c8f9e3d2697dc): 
+For now as I put together some more docs you can view the simple counter example [here](https://github.com/esharmony/fusetype-counter/tree/41952b5af8baefcebb7bde91ce0c8f9e3d2697dc)
+
+To install either: 
+
+- npm i fusetype
+- yarn add fusetype 
 
 
 
