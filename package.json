@@ -1,6 +1,6 @@
 {
   "name": "fusetype",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "description": "typescript state management library",
   "main": "./lib/index.js",
   "repository": {
