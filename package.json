@@ -1,12 +1,14 @@
 {
   "name": "fusetype",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "description": "typescript state management library",
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/esharmony/fusetype"
   },
+  "homepage": "https://www.fusetype.info/",
+  "bugs": "https://github.com/esharmony/fusetype/issues",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "[ -d './lib/*' ] && rm ./lib/* && tsc || tsc"
