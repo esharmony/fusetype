@@ -3,6 +3,8 @@ To install either:
 - npm i fusetype
 - yarn add fusetype 
 
+Attention: For **Svelte** users the set up is very similar with just a few changes. Please check the [example](https://github.com/esharmony/fusetype-svelte-counter) for the minor differences.
+
 ### What is FuseType?
 
 FuseType is a simple yet powerful state management system, that at its core is the observer / pub sub pattern.  

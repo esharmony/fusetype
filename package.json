@@ -1,7 +1,7 @@
 {
   "name": "fusetype",
-  "version": "0.1.9",
-  "description": "typescript state management library",
+  "version": "0.1.10",
+  "description": "typescript state management library for React, Svelte and more..",
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
@@ -14,11 +14,12 @@
     "build": "[ -d './lib/*' ] && rm ./lib/* && tsc || tsc"
   },
   "keywords": [
-    "state",
-    "management",
-    "fusetype",
-    "react",
-    "typescript"
+    "State",
+    "Management",
+    "FuseType",
+    "React",
+    "Svelte",
+    "TypeScript"
   ],
   "author": "Matthew Barnden",
   "license": "MIT",
