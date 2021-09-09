@@ -1,3 +1,6 @@
 [submodule "examples/counter"]
 	path = examples/counter
 	url = https://github.com/esharmony/fusetype-counter.git
+[submodule "examples/counter-svelte"]
+	path = examples/counter-svelte
+	url = https://github.com/esharmony/fusetype-svelte-counter.git
